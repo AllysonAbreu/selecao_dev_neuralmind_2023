@@ -1,0 +1,8 @@
+beautifulsoup4
+Chroma==0.2.0
+chromadb
+langchain==0.0.264
+langchainplus-sdk==0.0.20
+openai==0.27.8
+openapi-schema-pydantic==1.2.4
+python-dotenv==1.0.0
